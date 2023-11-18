@@ -19,7 +19,7 @@
 
 ### About Me 🤓
 
-<div>
+<div align="center">
   <img src="https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif" width="200"/>
 </div>
 
@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning **Python && React.ts**
 - 📫 How to reach me: **apinochet@cleppi.cl**
 
-<div align="left">
+<div align="center">
     <h3>Languages and Tools:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40">&nbsp;
@@ -42,4 +42,6 @@
 
 ### ⚡ My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alepinobra&theme=highcontrast&hide_border=true)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alepinobra&theme=highcontrast&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div>
