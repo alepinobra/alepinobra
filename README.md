@@ -17,14 +17,14 @@
     </p>
 </div>
 ---
-### About Me 🤓 :
+<!-- ### About Me 🤓 :
 <div>
     <img src="https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif" width="200"/>
 </div>
 - 🔭 I’m currently working on [Cleppi](https://portal.cleppi.cl/)
 - 🌱 I’m currently learning **Python && React.ts**
 - 📫 How to reach me: **apinochet@cleppi.cl**
-
+-->
 <div align="left">
     <h3>Languages and Tools:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
@@ -43,6 +43,6 @@
   
 ---
 
-### ⚡ My Stats :
+<!-- ### ⚡ My Stats : -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alepinobra&theme=highcontrast&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
