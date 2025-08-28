@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on [Cleppi](https://portal.cleppi.cl/)
 - 🌱 I’m currently learning **Python && React.ts**
-- 📫 How to reach me: **apinochet@cleppi.cl**
+- 📫 How to reach me: **alejandro.pinochet24@gmail.com**
 
 <div align="center">
     <h3>Languages and Tools:</h3>
